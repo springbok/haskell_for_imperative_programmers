@@ -1,2 +1,2 @@
-# haskell_for_imperative_programmers
+# learning_haskell
 Learning haskell
